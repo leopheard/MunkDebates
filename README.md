@@ -1,4 +1,4 @@
-<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.iheart.com/podcast/962-the-munk-debates-podcast-p-52131924/">Munk Debates</a> podcast.<br>
+<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://munkdebates.com/podcast">Munk Debates</a> podcast.<br>
 
 <img src="https://www.omnycontent.com/d/playlist/4809bc8a-e41a-405c-93da-a8cf011df2f4/f4c20113-e8b0-4a61-88fc-aafb0100639f/b89b4c6a-cc72-43f2-a35c-aafb0102f899/image.jpg?t=1612818988&size=Large"><br>
 
